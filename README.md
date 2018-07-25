@@ -1,9 +1,7 @@
 # FrontHrm
-[FrontAccounting](http://frontaccounting.com/) Payroll & Human Resource Module
+Payroll & Human Resource Module
 
 [DEMO](http://notrinos.webstarterz.com/act)
-
-[Forum Discussion](http://frontaccounting.com/punbb/viewtopic.php?id=6860)
 
 
 Requirement
